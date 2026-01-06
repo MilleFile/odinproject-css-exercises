@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+
+.oddelement {
+    background-color: #c0000080;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.specialodd {
+    font-size: 24px;
+}
+
+#firstdiv {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#seconddiv {
+    background-color: #00c00070;
+    font-size: 24px;
+    font-weight: bold;
+
+}
