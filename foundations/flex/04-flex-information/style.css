@@ -10,6 +10,25 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  display:flex;
+  justify-content: center;
+  padding: 32px;
+}
+
+.botanical {
+  display:flex;
+  flex-flow: row;
+  gap:52px;
+  align-items: center;
+  justify-content: center;
+}
+
+.botanical .plant {
+  display:flex;
+  flex-wrap: wrap;
+  max-width: 200px;
+  justify-content: center;
+  text-align:center;
 }
 
 /* do not edit this footer */
